@@ -9,7 +9,6 @@ export const Footer = (props) => {
         <div id={'contacts'} className={styles.ContactsBlock}>
             <div >
                 <Fade bottom>
-
                 <h2 className={styles.title}>Alexander Yudintsev</h2>
                 <div className={styles.form}>
                     <div className={styles.content}></div>
